@@ -1,3 +1,4 @@
+# streamlit run streamlit_basic.py
 import streamlit as st
 import pandas as pd
 import seaborn as sns
