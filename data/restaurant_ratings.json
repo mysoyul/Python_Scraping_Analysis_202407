@@ -1,0 +1,107 @@
+[
+  {
+    "name": "해담채 강남점",
+    "rating": "3.9",
+    "category": "한정식",
+    "address": "서울 강남구 논현로85길 70 역삼823빌딩 지하1층\n(지번) 역삼동 823-16",
+    "source": "kakaomap"
+  },
+  {
+    "name": "농민백암순대 본점",
+    "rating": "4.5",
+    "category": "국밥",
+    "address": "서울 강남구 선릉로86길 40-4 알앤지타운 1층\n(지번) 대치동 896-33",
+    "source": "kakaomap"
+  },
+  {
+    "name": "대가방 본점",
+    "rating": "3.2",
+    "category": "중국요리",
+    "address": "서울 강남구 봉은사로 333 1층 101~102호\n(지번) 논현동 278-4",
+    "source": "kakaomap"
+  },
+  {
+    "name": "아방궁",
+    "rating": "3.7",
+    "category": "중국요리",
+    "address": "서울 강남구 역삼로1길 18 2층\n(지번) 역삼동 831-32",
+    "source": "kakaomap"
+  },
+  {
+    "name": "큰물참치 강남점",
+    "rating": "3.9",
+    "category": "참치회",
+    "address": "서울 강남구 테헤란로2길 27 패스트파이브빌딩 1층 102호\n(지번) 역삼동 826-26",
+    "source": "kakaomap"
+  },
+  {
+    "name": "리북집 논현직영점",
+    "rating": "3.8",
+    "category": "족발,보쌈",
+    "address": "서울 강남구 학동로2길 47\n(지번) 논현동 163-4",
+    "source": "kakaomap"
+  },
+  {
+    "name": "몽중헌 대치점",
+    "rating": "3.8",
+    "category": "중국요리",
+    "address": "서울 강남구 영동대로 325 S-TOWER 1층\n(지번) 대치동 983-17",
+    "source": "kakaomap"
+  },
+  {
+    "name": "비야게레로",
+    "rating": "4.2",
+    "category": "양식",
+    "address": "서울 강남구 봉은사로78길 12 1층 101호\n(지번) 삼성동 118-21",
+    "source": "kakaomap"
+  },
+  {
+    "name": "경천애인2237 삼성본점",
+    "rating": "4.1",
+    "category": "육류,고기",
+    "address": "서울 강남구 테헤란로 421 암천빌딩 3층\n(지번) 삼성동 142-46",
+    "source": "kakaomap"
+  },
+  {
+    "name": "팀호완 삼성점",
+    "rating": "3.4",
+    "category": "중식",
+    "address": "서울 강남구 봉은사로86길 30 지하1,1층\n(지번) 삼성동 148-15",
+    "source": "kakaomap"
+  },
+  {
+    "name": "츄라우미 역삼본점",
+    "rating": "2.9",
+    "category": "초밥,롤",
+    "address": "서울 강남구 언주로93길 21 남전타운 2층\n(지번) 역삼동 677-5",
+    "source": "kakaomap"
+  },
+  {
+    "name": "세종한우 학동역점",
+    "rating": "3.9",
+    "category": "육류,고기",
+    "address": "서울 강남구 학동로 219 국제빌딩 지하1층\n(지번) 논현동 89-22",
+    "source": "kakaomap"
+  },
+  {
+    "name": "진미평양냉면 별관",
+    "rating": "3.8",
+    "category": "냉면",
+    "address": "서울 강남구 학동로 305-3 정각빌딩 1층\n(지번) 논현동 115-10",
+    "source": "kakaomap"
+  },
+  {
+    "name": "루위",
+    "rating": "3.6",
+    "category": "중식",
+    "address": "서울 강남구 도산대로 211 1층\n(지번) 신사동 587-14",
+    "source": "kakaomap"
+  },
+  {
+    "name": "로마옥 도곡",
+    "rating": "3.7",
+    "category": "양식",
+    "address": "서울 강남구 강남대로48길 11 1층\n(지번) 도곡동 948-13",
+    "source": "kakaomap"
+  }
+]
